@@ -1,0 +1,10 @@
+.greeting{
+    text-align: center;
+    color: red;
+    font-weight: 900;
+    border: solid black;
+    border-width: 2px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+}

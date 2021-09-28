@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar';
+import ItemListContainer from './components/ItemListContainer';
+
 
 
 function App() {
@@ -19,6 +21,7 @@ function App() {
         >
           Ingresa y conoce nuestros productos
         </a>
+        <div><ItemListContainer/></div>
       </header>
     </div>
   );
