@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "name":"Mochila CELSIUS VERDE",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_732688-MLA47546823889_092021-F.webp",
+        "precio": 8990,
+        "description": "Mochila CELSIUS VERDE"
+    },
+    {
+        "id": 1,
+        "name":"Mochila CELSIUS AZUL",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_954753-MLA46293223470_062021-F.webp",
+        "precio": 8990,
+        "description": "Mochila CELSIUS AZUL"
+    },
+    {
+        "id": 2,
+        "name":"Mochila CELSIUS BORDO",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_906188-MLA47044062808_082021-F.webp",
+        "precio":8990,
+        "description": "Mochila CELSIUS BORDO"
+    }
+    
+]

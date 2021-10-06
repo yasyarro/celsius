@@ -19,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ingresa y conoce nuestros productos
+         
         </a>
         <div><ItemListContainer/></div>
       </header>
